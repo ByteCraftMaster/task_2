@@ -1,5 +1,5 @@
-first line
-second line
+changes in second folder first line
+changes in second folder second line
 third line
 line 4
 Second update line 5
